@@ -1,0 +1,819 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"scale",
+				"scale_x"
+			],
+			[
+				"w",
+				"width	Int"
+			],
+			[
+				"Pla",
+				"PlayState	class"
+			],
+			[
+				"b",
+				"BitmapData	class"
+			],
+			[
+				"sp",
+				"space_z"
+			],
+			[
+				"K",
+				"KeyDown"
+			],
+			[
+				"m7",
+				"m7p"
+			],
+			[
+				"draw",
+				"draw_object"
+			],
+			[
+				"scree",
+				"screen_y"
+			],
+			[
+				"scre",
+				"screen_x"
+			],
+			[
+				"ML",
+				"ML_pixel"
+			],
+			[
+				"ob",
+				"obj_scale_x"
+			],
+			[
+				"sca",
+				"scale_x"
+			],
+			[
+				"sc",
+				"scale_y"
+			],
+			[
+				"spa",
+				"space_z"
+			],
+			[
+				"M",
+				"MODE_7_PARAMS"
+			],
+			[
+				"spr",
+				"sprite"
+			],
+			[
+				"mas",
+				"mask_y"
+			],
+			[
+				"spac",
+				"space_x"
+			],
+			[
+				"hor",
+				"horizon"
+			],
+			[
+				"fi",
+				"fireFromAngle( Angle : Int )	Bool"
+			],
+			[
+				"pos",
+				"getWorldPosition(...)	flixel.util.FlxPoint"
+			],
+			[
+				"fire",
+				"fireAtTarget(...)	Bool"
+			],
+			[
+				"set",
+				"setBulletRandomFactor(...)	Void"
+			],
+			[
+				"FLxS",
+				"FlxState	class"
+			],
+			[
+				"Fx",
+				"FlxG	class"
+			],
+			[
+				"ennemiesG",
+				"ennemiesGuns	var"
+			],
+			[
+				"l",
+				"log	flixel.system.frontEnds.LogFrontEnd"
+			],
+			[
+				"func",
+				"Function	haxe.macro.Expr"
+			],
+			[
+				"flx",
+				"FlxSprite"
+			],
+			[
+				"ptA",
+				"ptABdeltaL"
+			],
+			[
+				"fx",
+				"fix"
+			],
+			[
+				"ho",
+				"horizon"
+			],
+			[
+				"dis",
+				"distanceBetween"
+			],
+			[
+				"e",
+				"endif"
+			],
+			[
+				"scal",
+				"scall_table"
+			],
+			[
+				"fix",
+				"fixm"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"s",
+				"script"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Project.xml",
+			"settings":
+			{
+				"buffer_size": 3101,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/GameClass.hx",
+			"settings":
+			{
+				"buffer_size": 1389,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/PlayState.hx",
+			"settings":
+			{
+				"buffer_size": 5086,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Eiyeron/Documents/GitHub/haxe/bd/src/LevelState.hx",
+			"settings":
+			{
+				"buffer_size": 17909,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 242.0,
+		"selected_items":
+		[
+			[
+				"bui",
+				"Haxe: Choose Build Target"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"haxe",
+				"Haxe: Run build"
+			],
+			[
+				"buil",
+				"Haxe: Choose Build Target"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"haxe:",
+				"Haxe: Choose Build Target"
+			],
+			[
+				"b",
+				"Haxe: Run build"
+			],
+			[
+				"toggle ",
+				"Toggle Comment"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"run",
+				"Haxe: Run build"
+			],
+			[
+				"ch",
+				"Haxe: Choose Build Target"
+			],
+			[
+				"bu",
+				"Haxe: Run build"
+			],
+			[
+				"build",
+				"Haxe: Run build"
+			],
+			[
+				"haxeli",
+				"Haxelib: List all"
+			],
+			[
+				"haxe ",
+				"Haxe: Run build"
+			],
+			[
+				"upd",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"upda",
+				"Haxelib: Update library"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Haxelib: Remove library"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"hax",
+				"Haxe: Choose Build Target"
+			],
+			[
+				"haxelib",
+				"Haxelib: Update library"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"PRE",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"previe",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"previ",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"pre",
+				"Markdown Preview: Github Flavored Markdown: Export HTML in Sublime Text"
+			],
+			[
+				"exp",
+				"Markdown Preview: Github Flavored Markdown: Export HTML in Sublime Text"
+			],
+			[
+				"ex",
+				"Markdown Preview: Python Markdown: Export HTML in Sublime Text"
+			],
+			[
+				"expo",
+				"Markdown Preview: Python Markdown: Export HTML in Sublime Text"
+			],
+			[
+				"mar",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"ma",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"markd",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"v m",
+				"View: Toggle Menu"
+			],
+			[
+				"vim",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 576.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Dev/HaxeFlixel/Mode 7/source/Mode7.hx",
+		"/C/Dev/HaxeFlixel/Mode 7/Project.xml",
+		"/C/Users/Eiyeron/Documents/GitHub/haxe/bd/src/GameClass.hx",
+		"/C/Dev/HaxeFlixel/Mode 7/source/GameClass.hx",
+		"/C/Dev/HaxeFlixel/Mode 7/source/MenuState.hx",
+		"/C/Dev/HaxeFlixel/Mode 7/FlxProject.sublime-project",
+		"/C/Users/Eiyeron/Mode7/main.c",
+		"/C/Users/Eiyeron/Mode7/m7.c",
+		"/C/Users/Eiyeron/Mode7/mode7.c",
+		"/C/Users/Eiyeron/Mode7/mode7.h",
+		"/C/Users/Eiyeron/Mode7/m7.h",
+		"/C/Users/Eiyeron/Mode7/key.h",
+		"/C/Users/Eiyeron/Mode7/key.c",
+		"/C/Users/Eiyeron/Mode7/Mode7.c",
+		"/C/Users/Eiyeron/AppData/Local/Temp/7zO8AD5.tmp/keymatrix.c",
+		"/C/Users/Eiyeron/AppData/Local/Temp/7zO8105.tmp/keyboard.h",
+		"/C/Users/Eiyeron/AppData/Local/Temp/7zO2712.tmp/keyboard.c",
+		"/C/Users/Eiyeron/AppData/Local/Temp/7zO3D8.tmp/matrix_codes.h",
+		"/C/Users/Eiyeron/AppData/Local/Temp/7zO8229.tmp/keymatrix.c",
+		"/C/Users/Eiyeron/AppData/Local/Temp/7zODC0C.tmp/keymatrix.h",
+		"/C/Users/Eiyeron/AppData/Local/Temp/7zO54A3.tmp/keyboard.c",
+		"/C/Users/Eiyeron/AppData/Local/Temp/7zO3F2F.tmp/matrix_codes.h",
+		"/C/Users/Eiyeron/AppData/Local/Temp/7zO2E7B.tmp/key_codes.h",
+		"/C/Users/Eiyeron/Mode7/MonochromeLib.h",
+		"/C/Users/Eiyeron/Desktop/graph-signers/OS_2.04_ok.fls",
+		"/C/Users/Eiyeron/AppData/Local/Temp/7zOC176.tmp/keymatrix.c",
+		"/C/Users/Eiyeron/Mode7/fixed.h",
+		"/C/Users/Eiyeron/Mode7/MonochromeLib.c",
+		"/C/HaxeToolkit/haxe/lib/flixel-addons/1,0,3/flixel/addons/weapon/FlxWeapon.hx",
+		"/C/Dev/HaxeFlixel/TopDown/source/build.hxml",
+		"/C/HaxeToolkit/haxe/lib/flixel/3,2,2/flixel/group/FlxTypedGroup.hx",
+		"/C/HaxeToolkit/haxe/lib/flixel/3,2,2/flixel/group/FlxSpriteGroup.hx",
+		"/C/Dev/HaxeFlixel/TopDown/source/FlxEnemy.hx",
+		"/C/Dev/HaxeFlixel/TopDown/source/FlxPlayer.hx",
+		"/C/Dev/HaxeFlixel/TopDown/Project.xml",
+		"/C/Dev/HaxeFlixel/TopDown/source/GameClass.hx",
+		"/C/Program Files/SublimeText3/Data/Packages/User/Haxe.sublime-settings",
+		"/C/Program Files/SublimeText3/Data/Packages/User/XML.sublime-settings",
+		"/C/Dev/HaxeFlixel/TopDown/source/Main.hx",
+		"/C/Program Files/SublimeText3/Data/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Program Files/SublimeText3/Data/Packages/User/MarkdownPreview.sublime-settings",
+		"/C/Program Files/SublimeText3/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Dev/HaxeFlixel/TopDown/FlxProject.sublime-project",
+		"/C/Dev/HaxeFlixel/TopDown/source/PlayState.hx",
+		"/C/Dev/HaxeFlixel/MegaHaxe/source/PlayState.hx",
+		"/C/Dev/HaxeFlixel/TopDown/source/FLxPlayer.hx",
+		"/C/Users/Eiyeron/Mode7/fixed.c",
+		"/C/Users/Eiyeron/Mode7/m7.src",
+		"/C/Dev/HaxeFlixel/MegaHaxe/source/Met.hx",
+		"/C/Dev/HaxeFlixel/MegaHaxe/export/windows/cpp/obj/src/__boot__.cpp",
+		"/C/Dev/HaxeFlixel/MegaHaxe/export/windows/cpp/obj/src/Megaman.cpp",
+		"/C/Dev/eclipse/workspace/TwittMinter/output.csv",
+		"/C/Dev/android/workspace/TPAndroid/src/com/Eiyeron/tpandroid/MainActivity.java",
+		"/C/Dev/android/workspace/ImageGalleryDemo/src/net/viralpatel/android/imagegalleray/ImageGalleryDemoActivity.java",
+		"/C/Users/Eiyeron/Mode7/Debug/Addin.mak",
+		"/C/Users/Eiyeron/Mode7/FXSH_Build.bat",
+		"/C/Users/Eiyeron/Desktop/SH3 ASM/AS/code/test.asm",
+		"/C/Users/Eiyeron/Desktop/SH3 ASM/AS/code/make.bat",
+		"/C/Users/Eiyeron/Mode7/Debug/Mode7.obj",
+		"/C/Users/Eiyeron/Desktop/SH3 ASM/AS/doc/as_EN.html",
+		"/C/Users/Eiyeron/Desktop/SH3 ASM/C-G1A-Wrapper-master/bmp_utils.h",
+		"/C/Users/Eiyeron/Desktop/RFX/configure",
+		"/C/Users/Eiyeron/Mode7/fixed.C",
+		"/H/Programming/Mode-7/src/main.c",
+		"/C/Users/Eiyeron/AppData/Local/Temp/7zO2E89.tmp/main.c",
+		"/C/Users/Eiyeron/AppData/Local/Temp/fz3temp-1/sh_golden.css",
+		"/C/Users/Eiyeron/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/Eiyeron/AppData/Local/Temp/fz3temp-1/ra.css",
+		"/C/Users/Eiyeron/AppData/Local/Temp/fz3temp-1/index 2.php",
+		"/C/Dev/NDK/android-ndk-r9/samples/hello-gl2/jni/gl_code.cpp",
+		"/C/Dev/NDK/android-ndk-r9/samples/native-plasma/jni/plasma.c",
+		"/C/Users/Eiyeron/AppData/Local/Temp/fz3temp-1/footer.php",
+		"/C/Users/Eiyeron/AppData/Local/Temp/fz3temp-1/header.php",
+		"/C/Users/Eiyeron/Desktop/links.php",
+		"/C/Users/Eiyeron/AppData/Local/Temp/fz3temp-1/blog_utilities.php",
+		"/C/Users/Eiyeron/AppData/Local/Temp/7zO887C.tmp/GLSLnoise4.c",
+		"/C/Users/Eiyeron/AppData/Local/Temp/fz3temp-1/lightbox.css",
+		"/C/3D/Low-Poly/Renders/lightbox-2.6.min.js",
+		"/C/Users/Eiyeron/Documents/GitHub/flixel/flixel/input/android/FlxAndroidKeyList.hx",
+		"/C/Users/Eiyeron/Desktop/mapparser.c",
+		"/C/HaxeToolkit/haxe/lib/flixel-demos/1,0,1/Other/FlxCollisions/source/Player.hx",
+		"/C/HaxeToolkit/haxe/lib/flixel-demos/1,0,1/Other/FlxCollisions/source/PlayState.hx",
+		"/C/Dev/HaxeFlixel/Platformer/source/GameState.hx",
+		"/C/Dev/HaxeFlixel/Platformer/source/entities/Player.hx",
+		"/C/Dev/HaxeFlixel/Platformer/source/PlayState.hx",
+		"/C/Dev/HaxeFlixel/Platformer/source/MenuState.hx",
+		"/C/Dev/HaxeFlixel/Platformer/Project.xml",
+		"/C/Dev/HaxeFlixel/Platformer/source/GameClass.hx",
+		"/G/Dwarf Fortress/Win/raw/objects/language_DWARF.txt",
+		"/C/Users/Eiyeron/Desktop/sendpkm.py",
+		"/C/Users/Eiyeron/Desktop/pkmlib.py",
+		"/C/Users/Eiyeron/Desktop/pokehaxlib.py",
+		"/C/Users/Eiyeron/AppData/Local/Temp/fz3temp-1/server.properties",
+		"/C/Users/Eiyeron/AppData/Local/Temp/fz3temp-1/autoexec.cfg",
+		"/C/Users/Eiyeron/Desktop/region1-world_history.txt",
+		"/C/Program Files/SublimeText3/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Eiyeron/Desktop/region1-legends.xml",
+		"/C/Users/Eiyeron/Desktop/region1-world_sites_and_pops.txt",
+		"/C/Users/Eiyeron/AppData/Local/Temp/7zOF2BC.tmp/region1-legends.xml",
+		"/C/Dev/HaxeFlixel/Platformer/assets/data/levels/sans-titre.tmx",
+		"/C/HaxeToolkit/haxe/lib/flixel/3,0,4/flixel/util/FlxCollision.hx",
+		"/C/HaxeToolkit/haxe/lib/flixel/3,0,4/flixel/util/FlxMath.hx",
+		"/C/HaxeToolkit/haxe/lib/flixel/3,0,4/flixel/util/FlxSpriteUtil.hx",
+		"/C/wamp/www/R-A/wp-content/themes/teal/darkyR-A.css",
+		"/C/Users/Eiyeron/Desktop/distorter.cpp",
+		"/C/Users/Eiyeron/Desktop/FAQ.md",
+		"/C/Users/Eiyeron/Desktop/Entretien Alain Drillon.md",
+		"/C/Dev/FuriousPong/source/com/eiyeron/furiousPong/Ball.hx",
+		"/C/Dev/FuriousPong/source/com/eiyeron/furiousPong/Main.hx",
+		"/C/Dev/FuriousPong/source/com/eiyeron/furiousPong/MenuState.hx",
+		"/C/Dev/FuriousPong/source/com/eiyeron/furiousPong/Pallet.hx",
+		"/C/Dev/FuriousPong/source/com/eiyeron/furiousPong/ProjectClass.hx",
+		"/C/Dev/FuriousPong/source/com/eiyeron/furiousPong/Reg.hx",
+		"/C/Dev/FuriousPong/FuriousPong.hxproj",
+		"/C/Dev/FuriousPong/FuriousPong.xml",
+		"/C/Users/Eiyeron/Desktop/compétences.txt"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"b",
+			"fcos",
+			"fsin",
+			"\\",
+			"\\\\",
+			"0",
+			"{0",
+			"1",
+			"sc",
+			"KEY_\\w*_",
+			"point",
+			"bmp->w",
+			"bmp->h",
+			"fixtoi",
+			"itofix",
+			"32",
+			"pro",
+			"ennemies",
+			"weapon",
+			"pressed",
+			"\\\\",
+			"\\",
+			"TARGET",
+			"\\. ",
+			". ",
+			",}",
+			"1,",
+			"fdiv(FIX(time), 5)",
+			"float",
+			"/ra",
+			"/images/ra/Map.png",
+			";",
+			"v",
+			"center",
+			"Crafted",
+			"SPACE",
+			"            // You can also use space or any other key you want\n            if (_jump >= 0 && FlxG.keyboard.pressed(\"C\", \"K\")) {\n            	climbing = false;\n            	_jump += FlxG.elapsed;\n\n                    // You can't jump for more than 0.25 seconds\n                    if (_jump > 0.25) {\n                    	_jump = -1;\n                    }\n                }\n                else {\n                	_jump = -1;\n                }\n\n                if (_jump > 0) {\n                    // this number is how long before a short slow jump shifts to a faster, high jump\n                    if (_jump < 0.035) {\n                            // This is the minimum height of the jump\n                            velocity.y = -.6 * maxVelocity.y; \n                        }\n\n                        else {\n                        	velocity.y = -.8 * maxVelocity.y;\n                        }\n                    }\n                }\n            }",
+			"darky/",
+			"NobileRegular",
+			"AurulentSansItalic"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"w",
+			"Math.cos",
+			"Math.sin",
+			"/",
+			"1",
+			"{11",
+			"{1",
+			"0",
+			"K_",
+			"128",
+			"64",
+			"UNFIX",
+			"FIX",
+			"enemies",
+			"\\\\\\\\",
+			"\\\\",
+			".\\n",
+			"}",
+			"0,",
+			"angle",
+			"fix",
+			"ra",
+			"/ra/images/Map.png",
+			";\\n",
+			"p",
+			"darkyR-A/",
+			"Cantarell",
+			"Geo"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Project.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3101,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								38
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "source/GameClass.hx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1389,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								256,
+								256
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "source/PlayState.hx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5086,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3684,
+								3684
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1554.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Eiyeron/Documents/GitHub/haxe/bd/src/LevelState.hx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17909,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13345,
+								13345
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3606.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 28.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"project": "FlxProject.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"re",
+				"C:\\Users\\Eiyeron\\Desktop\\pokehaxlib.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

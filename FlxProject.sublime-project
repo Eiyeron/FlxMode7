@@ -1,0 +1,25 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"name": "FlxProject",
+			"path": "C:/Dev/HaxeFlixel/Mode 7"
+		},
+		{
+			"follow_symlinks": true,
+			"name": "Flixel",
+			"path": "C:/HaxeToolkit/haxe/lib/flixel/3,2,2/"
+		},
+		{
+			"follow_symlinks": true,
+			"name": "Flixel Addons",
+			"path": "C:/HaxeToolkit/haxe/lib/flixel-addons/1,0,3/"
+		},
+		{
+			"follow_symlinks": true,
+			"name": "Haxe",
+			"path": "C:/HaxeToolkit/haxe/std"
+		}
+	]
+}
